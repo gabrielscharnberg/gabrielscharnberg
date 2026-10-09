@@ -55,7 +55,7 @@ Busco evoluir cada vez mais na área de tecnologia, principalmente em desenvolvi
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas
 - 💻 Atuando com desenvolvimento web
 - 🛠️ Suporte a sistemas ERP e usuários
-- 🌱 Estudando JavaScript, PHP, banco de dados e Git
+- 🌱 Estudando JavaScript, Java Spring Boot, PHP, banco de dados e Git
 - 📍 Brasília - DF
 
 ---
